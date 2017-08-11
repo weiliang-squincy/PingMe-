@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PingMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="friends_list">Friend List</string>
+    <string name="added_friends">Friends</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="sample_username">username</string>
+    <string name="sample_email">email</string>
+    <string name="profile">Profile</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="title_activity_friends">FriendsActivity</string>
+</resources>

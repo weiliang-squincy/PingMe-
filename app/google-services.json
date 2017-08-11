@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "376868416798",
+    "firebase_url": "https://android-chat-app-dbfba.firebaseio.com",
+    "project_id": "android-chat-app-dbfba",
+    "storage_bucket": "android-chat-app-dbfba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376868416798:android:e9528c95aa256493",
+        "android_client_info": {
+          "package_name": "me.haroldmartin.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376868416798-bf0sun55cafd8e6j9j4giojpordjqrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0-KT6UQvpBKQhi-ISjpqZLUfQ6NP1dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376868416798:android:fc439de45d84eee6",
+        "android_client_info": {
+          "package_name": "com.example.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376868416798-bf0sun55cafd8e6j9j4giojpordjqrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0-KT6UQvpBKQhi-ISjpqZLUfQ6NP1dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376868416798:android:286cae0d0763d45d",
+        "android_client_info": {
+          "package_name": "com.site11.jugomo.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376868416798-bf0sun55cafd8e6j9j4giojpordjqrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0-KT6UQvpBKQhi-ISjpqZLUfQ6NP1dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376868416798:android:6ce56809a72f67de",
+        "android_client_info": {
+          "package_name": "apps.shark.pingme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376868416798-bf0sun55cafd8e6j9j4giojpordjqrke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt0-KT6UQvpBKQhi-ISjpqZLUfQ6NP1dk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

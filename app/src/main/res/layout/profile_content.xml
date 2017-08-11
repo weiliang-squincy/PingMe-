@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="20dp"
+    android:paddingBottom="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="@string/profile_pic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/profilePicture"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/com_facebook_profile_picture_blank_portrait"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:drawable/ic_menu_camera"
+        android:elevation="0dp"
+        android:scaleType="fitCenter"
+        android:cropToPadding="true"
+        android:adjustViewBounds="true" />
+
+    <TextView
+        android:id="@+id/tvUsername"
+        android:text="@string/sample_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:text="@string/sample_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:textAlignment="center"/>
+
+</LinearLayout>
