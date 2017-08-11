@@ -8,4 +8,5 @@ It has basic features like:\n
 - Text messaging, messaging through audio or images.\n
 - Users can also have the profile pic to the account.
 \n
-- 
+- User can add friends\n
+- User can see added friends and if they are online\n
